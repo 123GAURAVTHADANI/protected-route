@@ -13,3 +13,6 @@ function Authorization({ children }) {
   );
 }
 export default Authorization;
+
+// Parent component (Re Render)
+// Child Component (Re Render)
